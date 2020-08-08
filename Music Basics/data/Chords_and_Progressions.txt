@@ -1,0 +1,14 @@
+0, "In this unit, we will play the 8 chords from the key, using the number keys 1 - 8 on our computer keyboard. We will learn that the speed, and timing used to play each chord is part of a musical concept known as rhythm." ;
+
+1, "As you know, there are 7 unique chords in each key with the 8th being a repeat of the first one up one octave. The chords formed from the key are known as diatonic chords as to distinguish between chords that are not from the key. For instance, you know that in a major key, the 1, 4, an 5 chords are major because of the intervals between the notes used to form these chords. While it's possible to mix non-diatonic chords with diatonic ones, for instance, using a minor 4 chord instead of a major one, by altering a note, for now, we will simply play through the diatonic notes. 
+Press the number keys 1-8 on your computer keyboard repeatedly until you form some sort of evenly-paced, timed pattern. This timing pattern is known as a rhythm. Press the space bar to stop the chords from sustaining." ;
+
+2, "In this lesson, the program will choose a rhythmic pattern for you as you switch chords instead of simply letting the chords sustain. 
+
+Press the number keys 1-8 on your computer keyboard while the program imposes a rhythm on those chords. 
+
+The overall speed of the music's 'pulse' is known as tempo. Click the tempo button and adjust the number to see how change in tempo changes the music even though the rhythmic pattern stays the same. ";
+
+3, "In music, especially pop music, chords are commonly used in patterns which we call 'chord progressions'. For example, the '1 5 6 4' progression occurs when, for a given key, the chord built from scale degree 1 is played, then the 5 chord, then the 6 chord, then the 4 chord. It's common for chords to be grouped in fours for different sections of the song such as the verse or the chorus. For instance, the song 'Any Way You Want It' by Journey repeats the '1 5 6 4' pattern in the key of G Major for the entire song! 
+
+Choose a chord progression from the list at the right, then press the 'start' button to hear the pattern played. While the pattern plays, select other progressions from the list of common chord patterns. Adjust the tempo again as the chord progressions play back.";
