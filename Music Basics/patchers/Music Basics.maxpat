@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 1,
+			"minor" : 6,
 			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 10.0, 68.0, 1419.0, 665.0 ],
+		"rect" : [ 106.0, 110.0, 1419.0, 665.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -38,7 +38,7 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
-		"title" : "Music Basics || eamir.org.",
+		"title" : "Music Basics || eamir.org",
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-149",
@@ -63,7 +63,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
+							"minor" : 6,
 							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -350,46 +350,46 @@
  ],
 						"styles" : [ 							{
 								"name" : "EAMIR",
-								"newobj" : 								{
-									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-									"fontface" : [ 0 ],
-									"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
-								}
-,
 								"default" : 								{
 									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-									"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
-									"fontface" : [ 0 ],
 									"bgcolor" : [ 0.929412, 0.756863, 1.0, 1.0 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
-									"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.850253, 0.837059, 0.878431, 1.0 ],
 										"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 0.8, 0.4, 1.0, 1.0 ]
+									"color" : [ 0.8, 0.4, 1.0, 1.0 ],
+									"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
+									"fontface" : [ 0 ],
+									"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
+								}
+,
+								"newobj" : 								{
+									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
+									"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
+									"fontface" : [ 0 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 								}
 ,
 								"umenu" : 								{
-									"fontface" : [ 0 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.701961, 0.415686, 0.886275, 0.37 ],
 										"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
-
+,
+									"fontface" : [ 0 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -397,46 +397,46 @@
 							}
 , 							{
 								"name" : "EAMIR-1",
-								"newobj" : 								{
-									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-									"fontface" : [ 0 ],
-									"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
-								}
-,
 								"default" : 								{
 									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-									"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
-									"fontface" : [ 0 ],
 									"bgcolor" : [ 0.929412, 0.756863, 1.0, 1.0 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
-									"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.850253, 0.837059, 0.878431, 1.0 ],
 										"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 0.8, 0.4, 1.0, 1.0 ]
+									"color" : [ 0.8, 0.4, 1.0, 1.0 ],
+									"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
+									"fontface" : [ 0 ],
+									"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
+								}
+,
+								"newobj" : 								{
+									"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
+									"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
+									"fontface" : [ 0 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 								}
 ,
 								"umenu" : 								{
-									"fontface" : [ 0 ],
-									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.701961, 0.415686, 0.886275, 0.37 ],
 										"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
-
+,
+									"fontface" : [ 0 ],
+									"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -454,44 +454,44 @@
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 								}
 ,
+								"button" : 								{
+									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+								}
+,
 								"default" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 									"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 								}
 ,
 								"slider" : 								{
-									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-								}
-,
-								"button" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 								}
 ,
 								"message" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 
 								}
@@ -515,44 +515,44 @@
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 								}
 ,
+								"button" : 								{
+									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+								}
+,
 								"default" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 									"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 								}
 ,
 								"slider" : 								{
-									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-								}
-,
-								"button" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 								}
 ,
 								"message" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 
 								}
@@ -576,44 +576,44 @@
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 								}
 ,
+								"button" : 								{
+									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+								}
+,
 								"default" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 									"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+									"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 								}
 ,
 								"slider" : 								{
-									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-								}
-,
-								"button" : 								{
-									"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+									"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 								}
 ,
 								"message" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 
 								}
@@ -628,43 +628,43 @@
 , 							{
 								"name" : "VJ Classic",
 								"default" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 									"bgcolor" : [ 0.264013, 0.273808, 0.299802, 1.0 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
+										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 										"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
-								}
-,
-								"ezdac~" : 								{
+									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ],
 									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+									"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
 								}
 ,
 								"ezadc~" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+									"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+								}
+,
+								"ezdac~" : 								{
+									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+									"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 								}
 ,
 								"umenu" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
+										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 										"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
 									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
@@ -677,12 +677,12 @@
 								"name" : "VJ Classic-1",
 								"default" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 0,
+										"color" : [ 0.954082, 0.954082, 0.954082, 0.59 ],
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"color" : [ 0.954082, 0.954082, 0.954082, 0.59 ],
-										"angle" : 0,
-										"proportion" : 0.39
+										"proportion" : 0.39,
+										"type" : "color"
 									}
 ,
 									"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
@@ -694,43 +694,43 @@
 , 							{
 								"name" : "VJ Classic-1-1",
 								"default" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 									"bgcolor" : [ 0.264013, 0.273808, 0.299802, 1.0 ],
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
+										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 										"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
-									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
-								}
-,
-								"ezdac~" : 								{
+									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ],
 									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+									"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
 								}
 ,
 								"ezadc~" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-									"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+									"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+								}
+,
+								"ezdac~" : 								{
+									"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+									"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 								}
 ,
 								"umenu" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
+										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 										"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 										"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 ,
 									"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
@@ -865,8 +865,8 @@
 					"patching_rect" : [ 641.0, 320.0, 69.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
-						"appicon_mac" : "Macintosh HD:/Users/VJ/Dropbox/source/EAMIR/_Projects/Music Basics/patchers/EAMIR.icns",
-						"appicon_win" : "Macintosh HD:/Users/VJ/Dropbox/source/EAMIR/_Projects/Music Basics/patchers/EAMIR.ico",
+						"appicon_mac" : "Media:/Git Repos/_GitHub/MusicBasics/Music Basics/patchers/EAMIR.icns",
+						"appicon_win" : "Media:/Git Repos/_GitHub/MusicBasics/Music Basics/patchers/EAMIR.ico",
 						"audiosupport" : 1,
 						"bundleidentifier" : "org.eamir.musicbasics",
 						"cantclosetoplevelpatchers" : 0,
@@ -979,7 +979,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
+							"minor" : 6,
 							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1127,7 +1127,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
+							"minor" : 6,
 							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1600,7 +1600,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
+							"minor" : 6,
 							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -2074,6 +2074,7 @@
 					"enablevscroll" : 0,
 					"id" : "obj-40",
 					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
 					"name" : "Understanding_Pitches.maxpat",
 					"numinlets" : 0,
@@ -2098,6 +2099,7 @@
 					"enablevscroll" : 0,
 					"id" : "obj-59",
 					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
 					"name" : "EAMIR_info.maxpat",
 					"numinlets" : 0,
@@ -2433,147 +2435,147 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "EAMIR_skin.png",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/media",
-				"patcherrelativepath" : "../media",
-				"type" : "PNG",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "EAMIR_info.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "EAMIR_logo.png",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/media",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Understanding_Pitches.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
+				"name" : "EAMIR_skin.png",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/media",
+				"patcherrelativepath" : "../media",
+				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "interval_visualizer.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
+				"name" : "EAMIR_splash.jpg",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/media",
+				"patcherrelativepath" : "../media",
+				"type" : "JPEG",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "Understanding_Pitches.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Understanding_Pitches.txt",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/data",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "interval_offsets.txt",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/data",
-				"patcherrelativepath" : "../data",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "interval_pitches.txt",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/data",
-				"patcherrelativepath" : "../data",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "button_colorer.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "eamir.appmenuabout.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "EAMIR_splash.jpg",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/media",
-				"patcherrelativepath" : "../media",
-				"type" : "JPEG",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "cmblogo.png",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/media",
-				"patcherrelativepath" : "../media",
-				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "VJManzo_info.maxpat",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/patchers",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "VJManzo_logo.png",
-				"bootpath" : "~/Dropbox/source/EAMIR/_Projects/Music Basics/media",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "button_colorer.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "cmblogo.png",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/media",
+				"patcherrelativepath" : "../media",
+				"type" : "PNG",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "eamir.appmenuabout.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "interval_offsets.txt",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/data",
+				"patcherrelativepath" : "../data",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "interval_pitches.txt",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/data",
+				"patcherrelativepath" : "../data",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "interval_visualizer.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/MusicBasics/Music Basics/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
 				"implicit" : 1
 			}
  ],
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "EAMIR",
-				"newobj" : 				{
-					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"fontface" : [ 0 ],
-					"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
-				}
-,
 				"default" : 				{
 					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
-					"fontface" : [ 0 ],
 					"bgcolor" : [ 0.929412, 0.756863, 1.0, 1.0 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
-					"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.850253, 0.837059, 0.878431, 1.0 ],
 						"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 0.8, 0.4, 1.0, 1.0 ]
+					"color" : [ 0.8, 0.4, 1.0, 1.0 ],
+					"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
+					"fontface" : [ 0 ],
+					"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
+				}
+,
+				"newobj" : 				{
+					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
+					"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
+					"fontface" : [ 0 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 				}
 ,
 				"umenu" : 				{
-					"fontface" : [ 0 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.701961, 0.415686, 0.886275, 0.37 ],
 						"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
-
+,
+					"fontface" : [ 0 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -2581,46 +2583,46 @@
 			}
 , 			{
 				"name" : "EAMIR-1",
-				"newobj" : 				{
-					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"fontface" : [ 0 ],
-					"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
-				}
-,
 				"default" : 				{
 					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
-					"fontface" : [ 0 ],
 					"bgcolor" : [ 0.929412, 0.756863, 1.0, 1.0 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
-					"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.850253, 0.837059, 0.878431, 1.0 ],
 						"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 0.8, 0.4, 1.0, 1.0 ]
+					"color" : [ 0.8, 0.4, 1.0, 1.0 ],
+					"elementcolor" : [ 0.376471, 0.384314, 0.4, 0.39 ],
+					"fontface" : [ 0 ],
+					"patchlinecolor" : [ 0.231373, 0.121569, 0.305882, 0.9 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
+				}
+,
+				"newobj" : 				{
+					"accentcolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
+					"bgcolor" : [ 0.93025, 0.756547, 1.0, 0.25 ],
+					"fontface" : [ 0 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 				}
 ,
 				"umenu" : 				{
-					"fontface" : [ 0 ],
-					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.701961, 0.415686, 0.886275, 0.37 ],
 						"color1" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
-
+,
+					"fontface" : [ 0 ],
+					"textcolor_inverse" : [ 0.231373, 0.121569, 0.305882, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -2638,44 +2640,44 @@
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 				}
 ,
-				"default" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+				"button" : 				{
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+				}
+,
+				"default" : 				{
+					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 				}
 ,
 				"slider" : 				{
-					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-				}
-,
-				"button" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 				}
 ,
 				"message" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 
 				}
@@ -2699,44 +2701,44 @@
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 				}
 ,
+				"button" : 				{
+					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+				}
+,
 				"default" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 					"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 				}
 ,
 				"slider" : 				{
-					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-				}
-,
-				"button" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 				}
 ,
 				"message" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 
 				}
@@ -2760,44 +2762,44 @@
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
 				}
 ,
+				"button" : 				{
+					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+				}
+,
 				"default" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 					"bgcolor" : [ 0.311041, 0.314599, 0.318357, 1.0 ],
-					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
+					"patchlinecolor" : [ 0.32549, 0.345098, 0.372549, 0.9 ]
 				}
 ,
 				"slider" : 				{
-					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ],
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-				}
-,
-				"button" : 				{
-					"elementcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"color" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+					"elementcolor" : [ 0.317141, 0.341132, 0.336206, 1.0 ]
 				}
 ,
 				"message" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
 						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 
 				}
@@ -2812,43 +2814,43 @@
 , 			{
 				"name" : "VJ Classic",
 				"default" : 				{
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 					"bgcolor" : [ 0.264013, 0.273808, 0.299802, 1.0 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
+						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 						"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
-				}
-,
-				"ezdac~" : 				{
+					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ],
 					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+					"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
 				}
 ,
 				"ezadc~" : 				{
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				}
+,
+				"ezdac~" : 				{
+					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 				}
 ,
 				"umenu" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
+						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 						"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
 					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
@@ -2861,12 +2863,12 @@
 				"name" : "VJ Classic-1",
 				"default" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 0,
+						"color" : [ 0.954082, 0.954082, 0.954082, 0.59 ],
 						"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
 						"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"color" : [ 0.954082, 0.954082, 0.954082, 0.59 ],
-						"angle" : 0,
-						"proportion" : 0.39
+						"proportion" : 0.39,
+						"type" : "color"
 					}
 ,
 					"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
@@ -2878,43 +2880,43 @@
 , 			{
 				"name" : "VJ Classic-1-1",
 				"default" : 				{
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 					"bgcolor" : [ 0.264013, 0.273808, 0.299802, 1.0 ],
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
+						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 						"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
-					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
-				}
-,
-				"ezdac~" : 				{
+					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ],
 					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+					"selectioncolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
 				}
 ,
 				"ezadc~" : 				{
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-					"color" : [ 1.0, 0.0, 0.0, 1.0 ]
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				}
+,
+				"ezdac~" : 				{
+					"bgcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 				}
 ,
 				"umenu" : 				{
 					"bgfillcolor" : 					{
-						"type" : "color",
+						"angle" : 270.0,
+						"autogradient" : 0,
+						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 						"color1" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 						"color2" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"color" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
-						"angle" : 270.0,
 						"proportion" : 0.39,
-						"autogradient" : 0
+						"type" : "color"
 					}
 ,
 					"color" : [ 0.682353, 0.705882, 0.776471, 1.0 ]
